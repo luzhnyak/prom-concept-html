@@ -1,0 +1,57 @@
+.policy {
+  padding-top: 120px;
+}
+
+.policy-h2 {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.5;  
+}
+
+.policy-text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.policy-ul {
+  line-height: 1.5;
+  list-style: disc;
+  padding-left: 28px;
+}
+
+.policy-ul li {
+  font-size: 16px;
+}
+
+.gap-bottom {
+  margin-bottom: 8px;
+}
+
+.last-update {
+  margin-bottom: 16px;
+}
+
+@media only screen and (min-width: 1140px) {
+  .policy-h2 {        
+    margin-top: 24px;
+    margin-bottom: 16px;
+  }
+
+  .policy-text {
+    font-size: 16px;
+  }
+
+  .policy-ul li {
+    font-size: 16px;
+  }
+
+  .gap-bottom {
+    margin-bottom: 16px;
+  }
+
+  .last-update {
+    margin-bottom: 24px;
+  }
+}
