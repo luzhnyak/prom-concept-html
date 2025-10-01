@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/prom-concept-html/",
     "preview": "vite preview"
   },
   "devDependencies": {
