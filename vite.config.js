@@ -15,7 +15,7 @@ export default defineConfig({
         cookies: "./src/cookie-policy.html",
       },
     },
-    outDir: "./dist",
+    outDir: "../dist",
   },
   plugins: [
     classHashPlugin(),
